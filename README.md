@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-# 💻 [Tu Nombre Completo]
+# 💻 [Roman Vargas]
 
 ## 👋 Hello, World! 🌍
-Welcome to my GitHub profile! I'm [Tu Nombre], a passionate software developer and DevOps engineer with expertise in a wide range of technologies including Java, Python, JavaScript, and the MEAN stack. I love building innovative solutions and automating processes to make development more efficient and enjoyable.
+Welcome to my GitHub profile! I'm [Roman Vargas], a passionate software developer and DevOps engineer with expertise in a wide range of technologies including Java, Python, JavaScript, and the MEAN stack. I love building innovative solutions and automating processes to make development more efficient and enjoyable.
 
 ![GitHub followers](https://img.shields.io/github/followers/tu-usuario?style=social) ![GitHub stars](https://img.shields.io/github/stars/tu-usuario?style=social)
 
