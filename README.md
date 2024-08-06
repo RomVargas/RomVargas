@@ -55,24 +55,6 @@ Welcome to my GitHub profile! I'm [Roman Vargas], a passionate software develope
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=onedark)
-
-## 📚 Projects
-
-### 🚀 Featured Project 1
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-1&theme=radical)](https://github.com/tu-usuario/proyecto-1)
-Description of your project and what it accomplishes.
-
-### 🚀 Featured Project 2
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=proyecto-2&theme=radical)](https://github.com/tu-usuario/proyecto-2)
-Description of your project and what it accomplishes.
-
-## ✍️ Blog & Writing
-
-- [Your Blog Post 1](https://yourblog.com/post1) - Short description of what this post is about.
-- [Your Blog Post 2](https://yourblog.com/post2) - Short description of what this post is about.
 
 ## 📫 Connect with Me
 
