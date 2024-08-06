@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm [Roman Vargas], a passionate software develope
 - 🎓 Graduated with a degree in [Your Degree] from [Your University]
 - 🌱 Always learning and exploring new technologies
 - 💬 Ask me about software development, DevOps, and cloud computing
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [your-email@example.com](mailto:romvargas81@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
@@ -58,9 +58,8 @@ Welcome to my GitHub profile! I'm [Roman Vargas], a passionate software develope
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/rom%C3%A1n-vargas-7b293226/)
+[![Portfolio](https://landing-page-nu-topaz.vercel.app/)
 
 ## 💡 Fun Facts
 
